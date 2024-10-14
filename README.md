@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chavda Rohit</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Rohit Chavda, a passionate web developer who loves building web
-    applications using technologies like HTML, CSS, and JavaScript.</h3>
+    applications using technologies like HTML, CSS, JavaScript, React, NodeJs, Typescript and MongoDB.</h3>
 
 - 🌱 I’m currently learning **Node JS,MongoDB**
 
